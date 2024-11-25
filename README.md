@@ -85,6 +85,18 @@ Unlock the full potential using the API.
 - [How do I?...](https://www.ultimatexr.io/guides/scripting-how-do-i)
 - [API Reference](https://www.ultimatexr.io/api/)
 
+## Clonación de Repositorio
+¡Hola, Estimad@!
+
+Para realizar la clonación del proyecto debe abrir la terminal de GitBash en su Equipo.
+Dentro, coloque los comandos para vincular su equipo con su repositorio GitHub.
+
+![image](https://github.com/user-attachments/assets/a1171615-3f6f-49c4-a9a4-f49dfaaaa61a)
+
+Luego realice la clonación del repositorio, con el comando
+git clone https://github.com/Maglioni-Arana/ultimatexr-unity.git
+
+Luego abra el proyecto clonado desde la IDE de VSC para trabajar con Unity.
 ## Community
 
 Join our community and get in touch with other developers.
