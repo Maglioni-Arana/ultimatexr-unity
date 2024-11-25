@@ -91,7 +91,7 @@ Unlock the full potential using the API.
 Para realizar la clonación del proyecto debe abrir la terminal de GitBash en su Equipo.
 Dentro, coloque los comandos para vincular su equipo con su repositorio GitHub.
 
-![image](https://github.com/user-attachments/assets/a1171615-3f6f-49c4-a9a4-f49dfaaaa61a)
+![image](https://github.com/user-attachments/assets/97737624-2373-4a4a-8dfd-e61d9fa5060c)
 
 Luego realice la clonación del repositorio, con el comando
 git clone https://github.com/Maglioni-Arana/ultimatexr-unity.git
